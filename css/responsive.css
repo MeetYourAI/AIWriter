@@ -60,7 +60,8 @@ Version: 1
     top: 71%;
 }
     .banner-text h1 {
-    font-size: 36px;
+    /* font-size: 36px; */
+    font-size: 26px;
 }
     .banner-block img {
     padding-top: 34%;
@@ -79,7 +80,8 @@ Version: 1
     top: 230px;
 }
     .banner-btn {
-    margin-top: 30px;
+    /* margin-top: 30px; */
+    margin-top: 24px;
 }
     .about-inner {
     padding: 40px 23px 30px;
